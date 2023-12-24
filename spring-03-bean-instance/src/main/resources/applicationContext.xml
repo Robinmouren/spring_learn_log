@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--<bean id="orderDao" class="com.robin.factory.OrderDaoFactory" factory-method="getOrderDao"/>-->
+
+
+
+    <!--<bean id="userFactory" class="com.robin.factory.UserDaoFactory"/>
+
+    <bean id="userDao" factory-method="getUserDao" factory-bean="userFactory"/>-->
+
+    <bean id="userDao" class="com.robin.factory.UserDaoFactoryBean"/>
+
+</beans>

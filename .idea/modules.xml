@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-01-quickstart/spring-01-quickstart.iml" filepath="$PROJECT_DIR$/spring-01-quickstart/spring-01-quickstart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-02-base-config/spring-02-base-config.iml" filepath="$PROJECT_DIR$/spring-02-base-config/spring-02-base-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-03-bean-instance/spring-03-bean-instance.iml" filepath="$PROJECT_DIR$/spring-03-bean-instance/spring-03-bean-instance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-04-bean-lifecycle/spring-04-bean-lifecycle.iml" filepath="$PROJECT_DIR$/spring-04-bean-lifecycle/spring-04-bean-lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-05-di-set/spring-05-di-set.iml" filepath="$PROJECT_DIR$/spring-05-di-set/spring-05-di-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-06-di-constructor/spring-06-di-constructor.iml" filepath="$PROJECT_DIR$/spring-06-di-constructor/spring-06-di-constructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-07-di-autowire/spring-07-di-autowire.iml" filepath="$PROJECT_DIR$/spring-07-di-autowire/spring-07-di-autowire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-08-di-collection/spring-08-di-collection.iml" filepath="$PROJECT_DIR$/spring-08-di-collection/spring-08-di-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-09-di-datasource/spring-09-di-datasource.iml" filepath="$PROJECT_DIR$/spring-09-di-datasource/spring-09-di-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-10-container/spring-10-container.iml" filepath="$PROJECT_DIR$/spring-10-container/spring-10-container.iml" />
+    </modules>
+  </component>
+</project>

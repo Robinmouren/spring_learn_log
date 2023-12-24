@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-01-quickstart" />
+        <module name="spring-05-di-set" />
+        <module name="spring-04-bean-lifecycle" />
+        <module name="spring-03-bean-instance" />
+        <module name="spring-02-base-config" />
+        <module name="spring-07-di-autowire" />
+        <module name="spring-09-di-datasource" />
+        <module name="spring-08-di-collection" />
+        <module name="spring-06-di-constructor" />
+        <module name="spring-10-container" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="11">
+      <module name="spring-01-quickstart" target="11" />
+      <module name="spring-02-base-config" target="11" />
+      <module name="spring-03-bean-instance" target="11" />
+      <module name="spring-04-bean-lifecycle" target="11" />
+      <module name="spring-05-di-set" target="11" />
+      <module name="spring-06-di-constructor" target="11" />
+      <module name="spring-07-di-autowire" target="11" />
+      <module name="spring-08-di-collection" target="11" />
+      <module name="spring-09-di-datasource" target="11" />
+      <module name="spring-10-container" target="11" />
+      <module name="spring-basicframe" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

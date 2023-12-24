@@ -1,0 +1,4 @@
+com\robin\AppForBeanFactory.class
+com\robin\dao\impl\BookDaoImpl.class
+com\robin\App.class
+com\robin\dao\BookDao.class

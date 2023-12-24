@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="bookDao" class="com.robin.dao.impl.BookDaoImpl">
+        <property name="array">
+            <array>
+                <value>100</value>
+                <value>200</value>
+                <value>300</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>robin</value>
+                <value>itheima</value>
+                <value>itheima2</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>100</value>
+                <value>200</value>
+                <value>300</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="1" value="robin"/>
+                <entry key="2" value="itheima"/>
+                <entry key="3" value="itheima2"/>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="1">robin</prop>
+                <prop key="2">robin2</prop>
+                <prop key="3">robin3</prop>
+            </props>
+        </property>
+    </bean>
+
+    <bean id="bookService" class="com.robin.service.impl.BookServiceImpl">
+        <property name="bookDao"    ref="bookDao"/>
+    </bean>
+
+
+
+</beans>

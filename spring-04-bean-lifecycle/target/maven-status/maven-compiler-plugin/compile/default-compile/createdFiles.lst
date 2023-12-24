@@ -1,0 +1,5 @@
+com\robin\dao\impl\BookDaoImpl.class
+com\robin\service\BookService.class
+com\robin\AppForLifeCycle.class
+com\robin\dao\BookDao.class
+com\robin\service\impl\BookServiceImpl.class

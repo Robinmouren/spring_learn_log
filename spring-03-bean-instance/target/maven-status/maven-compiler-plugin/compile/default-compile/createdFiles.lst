@@ -1,0 +1,12 @@
+com\robin\factory\UserDaoFactoryBean.class
+com\robin\factory\OrderDaoFactory.class
+com\robin\dao\impl\BookDaoImpl.class
+com\robin\dao\impl\OrderDaoImpl.class
+com\robin\App.class
+com\robin\dao\impl\UserDaoImpl.class
+com\robin\dao\OrderDao.class
+com\robin\dao\BookDao.class
+com\robin\AppUser.class
+com\robin\factory\BookDaoFactory.class
+com\robin\factory\UserDaoFactory.class
+com\robin\dao\UserDao.class

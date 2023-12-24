@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-01-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-02-base-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-03-bean-instance/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-04-bean-lifecycle/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-05-di-set/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-06-di-constructor/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-07-di-autoware/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-08-di-collection/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-07-di-autowire/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-09-di-datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-10-container/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
