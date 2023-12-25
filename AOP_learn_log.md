@@ -1,9 +1,3 @@
-# 学习spring日志
-
-
-
-
-
 ### AOP总结 ——2023-12-25  16:20
 
 **概念**：AOP(Aspect Oriented Porgramming) ***面向切面编程***，一种编程范式、**思想**
